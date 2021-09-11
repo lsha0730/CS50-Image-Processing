@@ -1,5 +1,7 @@
 # CS50-Image-Processing
-Edge detection, blur, reflect, greyscale. C program working with BMP files at the byte-by-byte and pixel-by-pixel level.
+Edge detection, blur, reflect, greyscale.
+
+C program working with BMP files at the byte-by-byte and pixel-by-pixel level.
 
 **Usage Instructions**
 
