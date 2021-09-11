@@ -4,6 +4,7 @@ Edge detection, blur, reflect, greyscale
 C program working with BMP files at the byte-by-byte and pixel-by-pixel level.
 
 **Usage Instructions**
+
 Run the filter.c program with the following sample command-line input:
 ./filter -e [input file name] [output file name]
 
